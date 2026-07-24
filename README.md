@@ -558,14 +558,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Dhruv Singhal**
-- GitHub: [@dhruvsinghal09](https://github.com/dhruvsinghal09)
-- Project: [Adaptive RAG](https://github.com/dhruvsinghal09/Adaptive-Rag)
-
----
-
 ## 📈 Project Status
 
 - ✅ Core RAG pipeline implemented
@@ -588,9 +580,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Real-time collaboration
 - [ ] Analytics dashboard
 - [ ] Cost optimization
-
----
-
-**Last Updated**: March 5, 2026  
-**Status**: ✅ Production Ready  
-**Documentation**: ✅ Comprehensive
